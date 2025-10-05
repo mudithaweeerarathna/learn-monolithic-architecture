@@ -30,3 +30,6 @@ All layers are part of one deployable application, making it easy to develop, te
 - Understand the structure of a monolithic application
 - Learn how to separate business logic, data access, and presentation layers
 - Explore deployment considerations for monolithic apps
+
+## This repository relates to the following article
+https://medium.com/@mmweerarathna123/monolithic-architecture-9b29b8fd51c5
